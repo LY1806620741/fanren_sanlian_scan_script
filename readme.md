@@ -3,7 +3,7 @@
 ![alt text](image-4.png)
 因为加班没有第一时间看到韩道友结婴，但无伤大雅。
 
-好的作品值得大家的肯定，在此开源一个能够查缺补漏一键三连的工具，补充一下凡人制作组的经费，如果脚本有问题或者需要帮助可以提issue。
+好的作品值得肯定，之前听说凡人经费紧张。为支援制作组遂回头补三连，奈何五年来时间跨度长，每一集手动查缺补漏有点困难，因此写了一个简单脚本来做这个事情。并在此开源，这是一个能够查缺补漏一键三连的工具，补充一下凡人制作组的经费，如果脚本有问题或者需要帮助可以提issue。
 
 # 作用
 扫描我们账号有哪一集没有三连，然后全部补上，这个文档类似于教程
@@ -48,9 +48,9 @@ const delay = 1000 / 5; // 5qps
 ## 分步脚本
 ### 步骤一
 
-> [凡人修仙传：第156话 重返天南4](https://www.bilibili.com/bangumi/play/ep1231564/?share_source=copy_web)
+> <a href="https://www.bilibili.com/bangumi/play/ep1231564/?share_source=copy_web" target="_blank" rel="noopener noreferrer">凡人修仙传：第156话 重返天南4</a><br><a href="https://www.bilibili.com" target="_blank" rel="noopener noreferrer">哔哩哔哩动画主页</a>
 
-随便在浏览器播放任意一集B站的凡人修仙传，可以点击上面的链接跳转，如果没登录需要登录
+随便在浏览器`播放任意一集B站的凡人修仙传并暂停视频` 或者 `打开B站主页`，可以点击上面的链接跳转，如果没登录需要登录
 
 ![alt text](image.png)
 
